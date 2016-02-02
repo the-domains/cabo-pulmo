@@ -1,0 +1,28 @@
+name: Cabo Pulmo
+favicon: null
+layout_spectrum: 0.5877415812574327
+typography_spectrum: 0.9194347793236375
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9739309584256262
+  lightness: 0.7463852984365076
+  saturation: 0.940307131037116
+  rhythmicContrast: 0.1703676600009203
+purpose: []
