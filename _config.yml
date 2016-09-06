@@ -1,20 +1,4 @@
-name: Cabo Pulmo
-favicon: null
-layout_spectrum: 0.5877415812574327
 typography_spectrum: 0.9194347793236375
-title: Cabo Pulmo National Marine Park
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#B8B42D'
@@ -26,4 +10,20 @@ color:
   lightness: 0.7463852984365076
   saturation: 0.940307131037116
   rhythmicContrast: 0.1703676600009203
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5877415812574327
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Cabo Pulmo
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Cabo Pulmo National Marine Park
 purpose: []
